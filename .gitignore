@@ -6,3 +6,4 @@
 
 # Directories
 .terraform*
+.dockerignore
