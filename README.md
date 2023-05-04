@@ -19,3 +19,5 @@ CLI: terraform init
 
 
 The rearc-quest folder conatins the Dockerfile
+
+I have added screenshot of the index page
